@@ -1,0 +1,12 @@
+{
+  "name": "conversion-adwords",
+  "version": "1.0.0",
+  "description": "Symphony Commerce / Adwords Conversion Pixel",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/symphony-pixels/conversion-adwords"
+  },
+  "author": "Symphony Commerce SA Team",
+  "license": "ISC"
+}
