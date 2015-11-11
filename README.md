@@ -2,7 +2,7 @@
 
 Use:
 
-var adwordsConversion = require("adwords-conversion")({
+var adwordsConversion = require("conversion-adwords")({
 	conversionId: CONVERSION_ID,
 	conversionLabel: CONVERSION_LABEL,
 	remarketingOnly: REMARKETING_ONLY (Optional)
